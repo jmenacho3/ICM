@@ -1,0 +1,10 @@
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\JESUS\UNIVERSIDAD CONTINENTAL\2016-II\Cursos\Evolucion de SW\Examen Final\Pregunta2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
